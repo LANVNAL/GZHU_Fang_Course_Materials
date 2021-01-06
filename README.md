@@ -30,7 +30,12 @@ Fork 本项目
 发起 PR
 具体步骤如有不清晰的可以Google或者咨询项目的维护者，或者也可以直接附加在 Issue 中，由维护者进行添加。
 
+### 3.2 贡献者列表
 
+- [Dtpark](https://github.com/Dtpark)
+- [tokyoyoyo](https://github.com/tokyoyoyo)
+- [吕阳紫星]()
+- [luluoluo](https://github.com/luluoluo)
 
 ## 4、 许可与版权
 [CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
