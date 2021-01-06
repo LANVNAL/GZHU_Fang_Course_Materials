@@ -34,7 +34,7 @@ Fork 本项目
 
 - [Dtpark](https://github.com/Dtpark)
 - [tokyoyoyo](https://github.com/tokyoyoyo)
-- [吕阳紫星]()
+- [小鬼]()
 - [luluoluo](https://github.com/luluoluo)
 
 ## 4、 许可与版权
